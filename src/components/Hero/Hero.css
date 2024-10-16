@@ -1,0 +1,30 @@
+
+.hero-title {
+    width: 580px;
+    height: 168px;
+    top: 3px;
+    left: 380px;
+    gap: 8px;
+    position: absolute;
+  }
+  
+  .hero-description {
+    width: 500px;
+    height: 28px;
+    top: 195.25px;
+    left: 470.09px;
+    gap: 0px;
+    position: absolute;
+  }
+  
+  .hero-button {
+    width: 131px;
+    height: 44px;
+    top: 256px;
+    left: 654.5px;
+    padding: 12px 24px;
+    gap: 0px;
+    border-radius: 12px 0 0 0; 
+    position: absolute;
+  }
+  
